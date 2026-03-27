@@ -1,0 +1,2 @@
+# firered
+firered sprite creator
